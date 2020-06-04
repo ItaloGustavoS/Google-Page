@@ -44,17 +44,6 @@ p {
   left: -5px;
 }
 
-.footer-up {
-  background: #f2f2f2;
-  font-family: arial;
-  color: #757575;
-  padding: 5px;
-  text-align: center;
-  bottom: 0;
-  width: 100%;
-  left: -5px;
-}
-
 .footer::after {
   display: block;
   clear: both;
